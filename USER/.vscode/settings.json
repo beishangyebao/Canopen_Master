@@ -1,0 +1,7 @@
+{
+    "Codegeex.RepoIndex": true,
+    "files.associations": {
+        "canfestival_can.h": "c",
+        "canfestival_master.h": "c"
+    }
+}
