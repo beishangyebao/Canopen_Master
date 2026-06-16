@@ -4,9 +4,9 @@
 #include <stdint.h>
 
 /*
- * DS402 主站侧 PDS 状态枚举。
- * 该枚举只描述 0x6041 Statusword 的状态机主状态，
- * bit4、bit5、bit9、bit10、bit12、bit13 等附加位由打印函数单独解析。
+ * DS402 主站侧 PDS 状态枚举
+ * 该枚举只描述 0x6041 Statusword 的状态机主状态
+ * bit4、bit5、bit9、bit10、bit12、bit13 等附加位由打印函数单独解析
  */
 typedef enum
 {
